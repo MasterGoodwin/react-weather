@@ -1,7 +1,7 @@
 import React from 'react';
-import Info from './components/info';
-import Form from './components/form';
-import Weather from './components/weather';
+import Info from './components/Info';
+import Form from './components/Form';
+import Weather from './components/Weather';
 
 const API_KEY = "428274b4a533922f9c3352f489182b19";
 
